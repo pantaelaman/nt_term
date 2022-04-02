@@ -1,0 +1,7 @@
+/home/pantaelaman/Documents/nt_term/build/CMakeFiles/install/strip.dir
+/home/pantaelaman/Documents/nt_term/build/CMakeFiles/install/local.dir
+/home/pantaelaman/Documents/nt_term/build/CMakeFiles/install.dir
+/home/pantaelaman/Documents/nt_term/build/CMakeFiles/list_install_components.dir
+/home/pantaelaman/Documents/nt_term/build/CMakeFiles/rebuild_cache.dir
+/home/pantaelaman/Documents/nt_term/build/CMakeFiles/edit_cache.dir
+/home/pantaelaman/Documents/nt_term/build/CMakeFiles/ntterm.dir

@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/ntterm.dir/src/main.cc.o CMakeFiles/ntterm.dir/src/nt.cc.o CMakeFiles/ntterm.dir/src/util.cc.o  -o ntterm  /usr/local/lib/libtvision.a -lncursesw /usr/lib/x86_64-linux-gnu/libtinfo.so /usr/lib/x86_64-linux-gnu/libgpm.so 

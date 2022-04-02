@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pantaelaman/Documents/nt_term/src/main.cc
+tvision/tv.h
+-
+util.h
+/home/pantaelaman/Documents/nt_term/src/util.h
+nt.h
+/home/pantaelaman/Documents/nt_term/src/nt.h
+
+/home/pantaelaman/Documents/nt_term/src/nt.h
+map
+-
+string
+-
+
+/home/pantaelaman/Documents/nt_term/src/util.h
+string
+-
+stdexcept
+-
+memory
+-
+

@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/pantaelaman/Documents/nt_term/build",
+  "command": "/usr/bin/g++  -D_GLIBCXX_USE_CXX11_ABI=0  -g   -Wno-unknown-pragmas -Wno-pragmas -o CMakeFiles/ntterm.dir/src/main.cc.o -c /home/pantaelaman/Documents/nt_term/src/main.cc",
+  "file": "/home/pantaelaman/Documents/nt_term/src/main.cc"
+},
+{
+  "directory": "/home/pantaelaman/Documents/nt_term/build",
+  "command": "/usr/bin/g++  -D_GLIBCXX_USE_CXX11_ABI=0  -g   -Wno-unknown-pragmas -Wno-pragmas -o CMakeFiles/ntterm.dir/src/nt.cc.o -c /home/pantaelaman/Documents/nt_term/src/nt.cc",
+  "file": "/home/pantaelaman/Documents/nt_term/src/nt.cc"
+},
+{
+  "directory": "/home/pantaelaman/Documents/nt_term/build",
+  "command": "/usr/bin/g++  -D_GLIBCXX_USE_CXX11_ABI=0  -g   -Wno-unknown-pragmas -Wno-pragmas -o CMakeFiles/ntterm.dir/src/util.cc.o -c /home/pantaelaman/Documents/nt_term/src/util.cc",
+  "file": "/home/pantaelaman/Documents/nt_term/src/util.cc"
+}
+]
